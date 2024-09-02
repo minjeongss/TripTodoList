@@ -8,9 +8,10 @@
   font-size: 25px;
   /* border: 2px solid tomato; */
 }
-.header i {
+.header img {
   color: #5e60ce;
-  transform: rotate(-45deg) scale(0.75);
+  /* transform: rotate(-45deg) scale(0.75); */
+  width: 5%;
 }
 .header:nth-of-type(1) {
   color: #4ea8de;
