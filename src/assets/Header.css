@@ -1,0 +1,20 @@
+.header {
+  background-color: #000000;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 800;
+  font-size: 25px;
+  /* border: 2px solid tomato; */
+}
+.header i {
+  color: #5e60ce;
+  transform: rotate(-45deg) scale(0.75);
+}
+.header:nth-of-type(1) {
+  color: #4ea8de;
+}
+.header:nth-of-type(2) {
+  color: #1e6f9f;
+}

@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  background-color: #1a1a1a;
+  color: white;
+}
+.mw {
+  max-width: 800px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
