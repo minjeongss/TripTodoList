@@ -1,8 +1,9 @@
-# React + Vite
+# Trip Todo List 🧳
 
 ## 시작
 
 ```
+npm create vite
 npm i
 npm run dev
 ```
@@ -10,7 +11,5 @@ npm run dev
 ## 빌드
 
 ```
-npm run build //dist 폴더 생성=컴파일된 폴더
-
-
+npm run deploy
 ```
